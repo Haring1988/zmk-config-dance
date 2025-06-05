@@ -221,7 +221,7 @@
             bindings = <
   &kp LEFT_ARROW  &kp RIGHT_ARROW  &kp N7  &kp N8   &kp N9     &kp LS(EQUAL)  &kp MINUS   &kp LS(N8)  &kp FSLH  &kp BSPC
   &kp LALT        &kp BSPC         &kp N4  &kp N5   &kp N6     &kp EQUAL      &kp LS(N9)  &kp LS(N0)  &none     &kp ENTER
-  &trans          &trans           &kp N1  &kp N2   &kp N3     &none          &none       &none       &kp LALT  &kp TAB
+  &trans          &kp ENTER        &kp N1  &kp N2   &kp N3     &none          &none       &none       &kp LALT  &kp TAB
                                    &kp N0  &kp DOT  &kp TAB    &kp SPACE      &kp BSPC    &kp DELETE
             >;
         };
