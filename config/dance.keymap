@@ -228,9 +228,9 @@
 
         layer_4 {
             bindings = <
-  &none         &none         &none         &sys_reset    &out OUT_TOG    &kp F1   &kp F2   &kp F3   &kp F4  &kp F5
-  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &kp F6   &kp F7   &kp F8   &kp F9  &kp F10
-  &none         &none         &bt BT_CLR    &none         &none           &kp F11  &kp F12  &kp INS  &kp F3  &none
+  &none         &none         &none         &sys_reset    &out OUT_TOG    &kp F1   &kp F2   &kp F3           &kp F4      &kp F5
+  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &kp F6   &kp F7   &kp F8           &kp F9      &kp F10
+  &none         &none         &bt BT_CLR    &none         &none           &kp F11  &kp F12  &kp PRINTSCREEN  &kp INSERT  &none
                               &none         &none         &none           &none    &none    &none
             >;
         };
