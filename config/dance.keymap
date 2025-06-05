@@ -170,7 +170,7 @@
             >;
         };
 
-        layer_6 {
+        layer_4 {
             bindings = <
   &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
   &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
