@@ -31,7 +31,7 @@ jobs:
         run: |
           keymap -c ./keymap_img/dance_keymap_config.yaml parse \
             -c 10 \
-            -z ./config/dance.keymap \
+            -z ./zmk-config-dance/blob/master/config/dance.keymap \
             --base-keymap ./keymap_img/dance_keymap_base.yaml \
             > ./keymap_img/dance_keymap.yaml
 
