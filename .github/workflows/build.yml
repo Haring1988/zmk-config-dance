@@ -20,7 +20,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install keymap_drawer
-          python -m pip install "tree-sitter>=0.20,<0.21"
 
       - name: 'Check keymap_drawer dependencies'
         run: |
