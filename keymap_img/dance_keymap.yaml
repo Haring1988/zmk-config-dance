@@ -224,6 +224,7 @@ combos:
   k: DELETE
 - p: [0, 1]
   k: ⎋
+  a: top
 - p: [28, 29]
   k: Sft+ ↹
 - p: [20, 21]

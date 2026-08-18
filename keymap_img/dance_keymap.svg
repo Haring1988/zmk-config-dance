@@ -254,8 +254,10 @@ path {
 <text x="59" y="124" class="combo tap">DELETE</text>
 </g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="45" y="55" width="28" height="26" class="combo"/>
-<text x="59" y="68" class="combo tap">⎋</text>
+<path d="M59,19 h-24 a6.0,6.0 0 0 0 -6.0,6.0 v44" class="combo"/>
+<path d="M59,19 h24 a6.0,6.0 0 0 1 6.0,6.0 v4" class="combo"/>
+<rect rx="6" ry="6" x="45" y="6" width="28" height="26" class="combo"/>
+<text x="59" y="19" class="combo tap">⎋</text>
 </g>
 <g class="combo combopos-4">
 <rect rx="6" ry="6" x="714" y="167" width="28" height="26" class="combo"/>
@@ -459,8 +461,10 @@ path {
 <text x="59" y="124" class="combo tap">DELETE</text>
 </g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="45" y="55" width="28" height="26" class="combo"/>
-<text x="59" y="68" class="combo tap">⎋</text>
+<path d="M59,19 h-24 a6.0,6.0 0 0 0 -6.0,6.0 v44" class="combo"/>
+<path d="M59,19 h24 a6.0,6.0 0 0 1 6.0,6.0 v4" class="combo"/>
+<rect rx="6" ry="6" x="45" y="6" width="28" height="26" class="combo"/>
+<text x="59" y="19" class="combo tap">⎋</text>
 </g>
 <g class="combo combopos-4">
 <rect rx="6" ry="6" x="714" y="167" width="28" height="26" class="combo"/>
@@ -696,8 +700,10 @@ path {
 <text x="59" y="124" class="combo tap">DELETE</text>
 </g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="45" y="55" width="28" height="26" class="combo"/>
-<text x="59" y="68" class="combo tap">⎋</text>
+<path d="M59,19 h-24 a6.0,6.0 0 0 0 -6.0,6.0 v44" class="combo"/>
+<path d="M59,19 h24 a6.0,6.0 0 0 1 6.0,6.0 v4" class="combo"/>
+<rect rx="6" ry="6" x="45" y="6" width="28" height="26" class="combo"/>
+<text x="59" y="19" class="combo tap">⎋</text>
 </g>
 <g class="combo combopos-4">
 <rect rx="6" ry="6" x="714" y="167" width="28" height="26" class="combo"/>
@@ -905,8 +911,10 @@ path {
 <text x="59" y="124" class="combo tap">DELETE</text>
 </g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="45" y="55" width="28" height="26" class="combo"/>
-<text x="59" y="68" class="combo tap">⎋</text>
+<path d="M59,19 h-24 a6.0,6.0 0 0 0 -6.0,6.0 v44" class="combo"/>
+<path d="M59,19 h24 a6.0,6.0 0 0 1 6.0,6.0 v4" class="combo"/>
+<rect rx="6" ry="6" x="45" y="6" width="28" height="26" class="combo"/>
+<text x="59" y="19" class="combo tap">⎋</text>
 </g>
 <g class="combo combopos-4">
 <rect rx="6" ry="6" x="714" y="167" width="28" height="26" class="combo"/>
@@ -1096,8 +1104,10 @@ path {
 <text x="59" y="124" class="combo tap">DELETE</text>
 </g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="45" y="55" width="28" height="26" class="combo"/>
-<text x="59" y="68" class="combo tap">⎋</text>
+<path d="M59,19 h-24 a6.0,6.0 0 0 0 -6.0,6.0 v44" class="combo"/>
+<path d="M59,19 h24 a6.0,6.0 0 0 1 6.0,6.0 v4" class="combo"/>
+<rect rx="6" ry="6" x="45" y="6" width="28" height="26" class="combo"/>
+<text x="59" y="19" class="combo tap">⎋</text>
 </g>
 <g class="combo combopos-4">
 <rect rx="6" ry="6" x="714" y="167" width="28" height="26" class="combo"/>
@@ -1306,8 +1316,10 @@ path {
 <text x="59" y="124" class="combo tap">DELETE</text>
 </g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="45" y="55" width="28" height="26" class="combo"/>
-<text x="59" y="68" class="combo tap">⎋</text>
+<path d="M59,19 h-24 a6.0,6.0 0 0 0 -6.0,6.0 v44" class="combo"/>
+<path d="M59,19 h24 a6.0,6.0 0 0 1 6.0,6.0 v4" class="combo"/>
+<rect rx="6" ry="6" x="45" y="6" width="28" height="26" class="combo"/>
+<text x="59" y="19" class="combo tap">⎋</text>
 </g>
 <g class="combo combopos-4">
 <rect rx="6" ry="6" x="714" y="167" width="28" height="26" class="combo"/>
@@ -1535,8 +1547,10 @@ path {
 <text x="59" y="124" class="combo tap">DELETE</text>
 </g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="45" y="55" width="28" height="26" class="combo"/>
-<text x="59" y="68" class="combo tap">⎋</text>
+<path d="M59,19 h-24 a6.0,6.0 0 0 0 -6.0,6.0 v44" class="combo"/>
+<path d="M59,19 h24 a6.0,6.0 0 0 1 6.0,6.0 v4" class="combo"/>
+<rect rx="6" ry="6" x="45" y="6" width="28" height="26" class="combo"/>
+<text x="59" y="19" class="combo tap">⎋</text>
 </g>
 <g class="combo combopos-4">
 <rect rx="6" ry="6" x="714" y="167" width="28" height="26" class="combo"/>
