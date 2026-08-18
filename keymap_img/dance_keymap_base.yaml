@@ -51,6 +51,10 @@ layers:
     - ''
     - ''
 combos:
+- p: [0, 1]
+  k: ESC
+  a: bottom
+  o: 0.0
   - p: [13, 16]
     k: 'Caps
 
