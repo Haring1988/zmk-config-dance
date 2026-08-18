@@ -1,7 +1,7 @@
 layers:
   default:
-  - [Q, W, E, R, T, Y, U, I, O, P]
-  - - A
+  - [A, W, E, R, T, Y, U, I, O, P]
+  - - B
     - S
     - D
     - F
